@@ -1,12 +1,12 @@
 {
 	"Version" : "0.0",
 	"GameServerIP" : "0.0.0.0",
-	"AssetBundlePathList" : 
-	{
-		"PlayerAsset" : "PlayerAsset.unity3d",
-		"FontAsset" :	"FontAsset.unity3d",
-		"ObjectAsset" : "ObjectAsset.unity3d",
-		"RootUI" : "RootUI.unity3d",
-		"WeaponeAsset" : "WeaponeAsset.unity3d"
-	}
+	"AssetBundleInfoList" : 
+	[
+		{ "Version" : 0, "Name" : "PlayerAsset",  "SubPath" : "Bundle/PlayerAsset.unity3d" },
+		{ "Version" : 0, "Name" : "FontAsset",    "SubPath" : "Bundle/FontAsset.unity3d" },
+		{ "Version" : 0, "Name" : "ObjectAsset",  "SubPath" : "Bundle/ObjectAsset.unity3d" },
+		{ "Version" : 0, "Name" : "RootUI",       "SubPath" : "Bundle/RootUI.unity3d" },
+		{ "Version" : 0, "Name" : "WeaponeAsset", "SubPath" : "Bundle/WeaponeAsset.unity3d" }
+	]
 }
