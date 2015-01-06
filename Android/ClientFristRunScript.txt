@@ -1,7 +1,7 @@
 {
 	"Version" : "0.0",
 	"GameServerIP" : "0.0.0.0",
-	"AssetBundleList : 
+	"AssetBundlePathList : 
 	[
 		{ "PlayerAsset" : "PlayerAsset.unity3d" },
 		{ "FontAsset" :	"FontAsset.unity3d" },
