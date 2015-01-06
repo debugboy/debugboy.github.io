@@ -1,0 +1,13 @@
+{
+	"Version" : "0.0",
+	"GameServerIP" : "0.0.0.0",
+	"AssetBundleList : 
+	[
+		{ "PlayerAsset" : "PlayerAsset.unity3d" },
+		{ "FontAsset" :	"FontAsset.unity3d" },
+		{ "ObjectAsset" : "ObjectAsset.unity3d" },
+		{ "RootUI" : "RootUI.unity3d" },
+		{ "PlayerAsset" : "PlayerAsset.unity3d" },
+		{ "WeaponeAsset" : "WeaponeAsset.unity3d" }
+	]
+}
