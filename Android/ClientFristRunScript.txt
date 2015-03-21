@@ -5,7 +5,7 @@
 	[
 		{ "AssetBundleVersion" : "1", "AssetBundleName" : "TableAsset",  "AssetBundleSubPath" : "Bundle/TableAsset.unity3d" },
 		{ "AssetBundleVersion" : "1", "AssetBundleName" : "PlayerAsset",  "AssetBundleSubPath" : "Bundle/PlayerAsset.unity3d" },
-		{ "AssetBundleVersion" : "1", "AssetBundleName" : "WeaponeAsset", "AssetBundleSubPath" : "Bundle/WeaponeAsset.unity3d" },
+		{ "AssetBundleVersion" : "1", "AssetBundleName" : "WeaponAsset", "AssetBundleSubPath" : "Bundle/WeaponAsset.unity3d" },
 		{ "AssetBundleVersion" : "1", "AssetBundleName" : "ObjectAsset", "AssetBundleSubPath" : "Bundle/ObjectAsset.unity3d" },
 		{ "AssetBundleVersion" : "1", "AssetBundleName" : "SoundAsset", "AssetBundleSubPath" : "Bundle/SoundAsset.unity3d" },
 		{ "AssetBundleVersion" : "1", "AssetBundleName" : "EffectAsset", "AssetBundleSubPath" : "Bundle/EffectAsset.unity3d" }
